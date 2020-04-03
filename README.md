@@ -1,5 +1,5 @@
 # Monster_Slayer_Game
-This is a very simple game. You can choose different behavior in each round until one of the monster and you win the game.
+This is a very simple game. You can choose different behaviors in each round until one of the monster or you win the game.
 
 This game is built in Vue FrameWork and it is also my first Vue application. I learned many things in this app.
 
